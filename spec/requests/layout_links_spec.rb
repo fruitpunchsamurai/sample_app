@@ -1,5 +1,8 @@
 require 'spec_helper'
 
+# This is where we would add additional tests for layout links if we
+# hadn't already tested them.
+
 describe "LayoutLinks" do
 
   it "should have a Home page at '/'" do
